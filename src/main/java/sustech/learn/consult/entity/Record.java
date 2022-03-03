@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 @Entity
 @Table(
-        name = "records"
+        name = "records2"
 //        ,
 //        indexes = {
 //                @Index(name = "users_username", columnList = "username", unique = true),
